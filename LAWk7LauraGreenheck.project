@@ -26,6 +26,22 @@
             "customerSelect",
             "customerSelect.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerDelete",
+            "customerDelete.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
         }
       ],
       "configxml": null,
