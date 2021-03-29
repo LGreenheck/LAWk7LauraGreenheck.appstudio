@@ -4,7 +4,7 @@ let results = []
 let pw = "VanderWielen1808*"
 let netID = "LMG66722"
 
-btnCustomerSelect4.onclick = function() {
+slctCustomerSelect4.onclick = function() {
   ChangeForm(customerSelect)
 }
 btnCustomerDelete4.onclick = function() {
