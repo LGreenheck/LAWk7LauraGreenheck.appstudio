@@ -34,15 +34,6 @@
         "forms",
         "customerUpdate",
         "Elements",
-        "btnCustomerSelect4.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "customerUpdate",
-        "Elements",
         "inptUpdatedName4.json"
       ]
     },
@@ -53,6 +44,15 @@
         "customerUpdate",
         "Elements",
         "txtaCustomers4.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "btnCustomerSelect4.json"
       ]
     }
   ],
