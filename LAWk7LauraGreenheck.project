@@ -39,8 +39,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "customerAdd",
+            "customerAdd.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
           ]
         }
       ],
